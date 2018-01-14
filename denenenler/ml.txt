@@ -1,0 +1,6 @@
+-top 5 top10 u nasýl buluruz? ve bunu nasýl kullanýrýz?
+-v1 ile v3 ün farký göründükten v1i v3e döndürünce azure ml kýzmasýn?
+
+
+
+https://www.youtube.com/watch?v=8V8-3ewm78k
